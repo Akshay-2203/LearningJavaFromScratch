@@ -12,8 +12,9 @@ public class PrintFactorialOfNumbers {
 		
 		for (int i=no;i>=1;i--) {
 			fact = fact*i;
-			System.out.print(" Factorial of"+ no + "is" + fact+" ");
-		}
+			
+		}System.out.print(" Factorial of"+ no + "is" + fact+" ");
+		
 		
 	}
 
